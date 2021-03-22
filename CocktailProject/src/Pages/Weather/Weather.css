@@ -1,0 +1,21 @@
+.cityName {
+    font-size: 1.8rem;
+}
+
+.cityContent {
+
+    font-size: larger;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.cityImage {
+    height: 100px;
+    width: 100px;
+}
+
+.ShowWeatherContent {
+    margin-top: -10%;
+    margin-left: -5%;
+}
+

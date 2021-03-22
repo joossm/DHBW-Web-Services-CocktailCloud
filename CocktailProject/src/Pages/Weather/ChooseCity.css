@@ -1,0 +1,13 @@
+.WeatherTitle {
+    text-align: left;
+    font-size: 2.6rem;
+
+}
+
+.cityInput {
+    width: 60%;
+}
+
+.cityButton {
+    font-size: 0.9rem;
+}

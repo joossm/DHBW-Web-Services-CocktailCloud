@@ -1,0 +1,42 @@
+nav {
+    height: 80px;
+    border: 2px solid #646363;
+    background-color: #ffffffff;
+
+}
+
+.Header-logo {
+    height: 50px;
+    width: 148px;
+    padding: 0 20px;
+}
+
+.Header-icon {
+    height: 40px;
+    width: 45px;
+    padding: 0 20px;
+}
+
+.Header-header {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Bottle_Icon {
+    height: 40px;
+    width: 35px;
+    padding: 0 20px;
+
+}
+
+.Header-icon-Dice {
+    height: 40px;
+    width: 40px;
+    padding: 0 20px;
+}
+
