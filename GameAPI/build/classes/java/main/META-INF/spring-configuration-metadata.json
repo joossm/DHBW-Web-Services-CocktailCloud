@@ -1,0 +1,11 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "spring.datasource.initialize",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.initialize."
+    }
+  ],
+  "hints": []
+}
