@@ -1,0 +1,13 @@
+version: '2'
+
+services:
+  client:
+    build: ./CocktailProject
+    ports:
+      - '3000:3000'
+  server:
+    build: ./GameAPI
+    ports:
+      - '8090:8090'
+
+
